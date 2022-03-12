@@ -1,2 +1,2 @@
 # gus
-A J2EE/Servlet Web Framework for Creating Relational Database Table List/CRUD Workflows using XML Definitions
+A J2EE/Servlet Framework for easily creating Web Pages to perform List/CRUD Workflows with XML Definitions
