@@ -32,7 +32,7 @@
 	</context-param>
 	<context-param>
 		<param-name>DB-Password</param-name>
-		<param-value>getajob!</param-value>
+		<param-value>password-for-mysql-user</param-value>
 	</context-param>
 
 	<context-param>
